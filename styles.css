@@ -1,0 +1,31 @@
+#task {
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 97%;
+    max-width: 97%;
+    min-width: 97%;
+    height: 25px;
+    max-height: 100px;
+    min-height: 25px;
+    border-radius: 5px;
+    border-width: 2px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#due {
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-width: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#save {
+    width: 93px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border-width: 2px;
+}
